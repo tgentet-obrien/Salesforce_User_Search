@@ -13,9 +13,6 @@ To install this Extenstion you will need to do the following:
 
 3) Drag the main **Chrome Extension** folder onto the page.
 
-<<<<<<< HEAD
-4) Enjoy!
-=======
 4) Enjoy!
 
 **Warning/Notes/Things to be fixed/looked into**
@@ -63,4 +60,3 @@ To install this Extenstion you will need to do the following:
       </tr>
    </tbody>
 </table>
->>>>>>> 5b998549066d71e135ac38d46453e98a9eb6628e
