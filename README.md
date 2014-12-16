@@ -19,3 +19,9 @@ To install this Extenstion you will need to do the following:
 
 - At the moment this will only allow a search from inside of Salesforce. You can not search from any other page.
 - Supporting more languages.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
