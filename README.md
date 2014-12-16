@@ -14,8 +14,3 @@ To install this Extenstion you will need to do the following:
 3) Drag the main **Chrome Extension** folder onto the page.
 
 4) Enjoy!
-
-**Warning/Notes/Things to be fixed/looked into**
-
-- At the moment this will only allow a search from inside of Salesforce. You can not search from any other page.
-- Supporting more languages.
