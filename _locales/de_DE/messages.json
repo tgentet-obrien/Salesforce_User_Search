@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "Salesforce Benutzer Suchen"
+  },
+  "appDesc": {
+    "message": "Um einen Benutzer zu suchen nutze bitte Benutzer-ID, Benutzername/eMail-Adresse oder Name."
+  },
+  "errorMsg" : {
+    "message": "Benutzer nicht gefunden oder du benutzt eine Falsche Benutzer-ID, Benutzername/eMail-Adresse oder Name, Bitte Versuche es Nochmal."
+  },
+  "wrongTab" : {
+    "message": "Bevor du das Tool nutzen kannst, must du zur Salesforce-Seite wechseln."
+  },
+  "whatCase" : {
+    "message": "Bitte gebe Benutzer-ID, Benutzername/eMail-Adresse oder Name ein."
+  }
+}
